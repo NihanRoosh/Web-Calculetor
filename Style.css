@@ -1,0 +1,41 @@
+.calcu{
+    width: 400px;
+    height: 600px;
+    background-color: gray;
+    margin-left: 400px;
+}
+#screen{
+    width: 80%;
+    height: 50px;
+    margin-left: 9%;
+    margin-top: 40px;
+    pointer-events: none;
+    font-size: 30px;
+    font-style: normal;
+}
+.btn{
+    width: 59px;
+    height: 53px;
+    margin-left: 30px;
+    margin-top: 38px;
+    background-color: black;
+    color: antiquewhite;
+    text-align: -webkit-center;
+    font-weight: bold;
+    font-size: 26px;
+}
+.clr{
+    width: 59px;
+    height: 53px;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-size: 27px;
+    font-weight: bold;
+    margin-left: 308px;
+    margin-top: 30px;
+   
+    
+
+
+}
